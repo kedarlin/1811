@@ -20,7 +20,7 @@ const Body = () => {
           </div>
         </div>
         <div className='body-content-1-right hidden sm:block flex-1'>
-          <img src='Assets/image-1.jpg' alt='image-1' className='image1 w-[100%] h-[100%] ml-[25%]' />
+          <img src='Assets/Image-1.jpg' alt='image-1' className='image1 w-[100%] h-[100%] ml-[25%]' />
         </div>
       </div>
 
@@ -35,7 +35,7 @@ const Body = () => {
 
       <div className='body-content-3 flex flex-col sm:flex-row justify-between mt-28'>
         <div className='body-content-3-left flex-1 sm:mb-0 mb-5'>
-          <img src='Assets/image-2.jpg' alt='image-1' className='image1 w-[90%]' />
+          <img src='Assets/Image-2.jpg' alt='image-1' className='image1 w-[90%]' />
         </div>
         <div className='body-content-3-right flex-1'>
           <div className='body-content-3-left-title text-6xl font-semibold'>
