@@ -15,7 +15,7 @@ const Help = () => {
                 Need Help?
             </div>
             <div className='text-center text-gray-700 text-xl w-[90%] sm:w-[45%] mt-5 tracking-wider'>
-                Don't worry, we got you. Here are some answers for your questions
+                Don&apos;t worry, we got you. Here are some answers for your questions
             </div>
             <div className='help-titles mt-5 w-[90%] sm:w-[80%] flex flex-col justify-center items-center'>
                 <div className='dropdown w-[100%] mb-4 bg-white rounded-md'>
