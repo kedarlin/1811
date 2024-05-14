@@ -10,7 +10,7 @@ const Contact = () => {
                 <span className='span text-orange-600'> big move</span>
             </div>
             <div className='content-content-1-left-desc w-[90%] md:w-[60%] text-lg mt-5'>
-                Experience the synergy of your favorite tools working seamlessly together, all powered by Horizon's cutting-edge AI analytics
+                Experience the synergy of your favorite tools working seamlessly together, all powered by Horizon&apos;s cutting-edge AI analytics
             </div>
             <div className='flex flex-col sm:flex-row items-center justify-center w-[100%] mt-8'>
                 <input className='content-input bg-gray-200 py-2 px-4 rounded-md w-[70%] sm:w-[40%] placeholder-gray-600' placeholder="youremail@gmail.com" type="email" name="email"/>

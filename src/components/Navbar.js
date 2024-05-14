@@ -15,9 +15,9 @@ const Navbar = () => {
                 <FontAwesomeIcon icon={faBars} className="text-gray-700 text-2xl cursor-pointer" onClick={toggleMenu} />
             </div>
             {showMenu && (
-                <div className='sm:hidden absolute top-0 left-0 w-full bg-orange-400'>
-                    <div className='flex flex-col items-center mt-4'>
-                    <FontAwesomeIcon icon={faX} className="text-gray-700 text-2xl cursor-pointer font-extrabold" onClick={toggleMenu}/>
+                <div className='sm:hidden fixed top-0 left-0 h-full bg-orange-400 z-10 w-[60%]'>
+                    <div className='flex flex-col items-center mt-12'>
+                        <FontAwesomeIcon icon={faX} className="text-gray-700 text-2xl cursor-pointer font-extrabold" onClick={toggleMenu}/>
                         <p className='p-2 cursor-pointer'>Features</p>
                         <p className='p-2 cursor-pointer'>Products</p>
                         <p className='p-2 cursor-pointer'>Testimonial</p>

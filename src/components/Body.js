@@ -29,7 +29,7 @@ const Body = () => {
           Explore the power of AI apps generation
         </div>
         <div className='body-content-2-bottom text-xl mt-8 w-[100%] md:w-[80%]'>
-          Unlock the full potential of your tech stack with Horizon's intitutive and Unlock the full potential of you tech stack with GenAI's intitutive and
+          Unlock the full potential of your tech stack with Horizon&apos;s intitutive and Unlock the full potential of you tech stack with GenAI&apos;s intitutive and
         </div>
       </div>
 
@@ -42,7 +42,7 @@ const Body = () => {
             <span className='span text-orange-600'>Unleash</span> the power of AI with GenAI
           </div>
           <div className='body-content-3-left-desc w-[90%] text-lg mt-5'>
-            Stay ahead of the curve with out Dynamic Trend Analysis Feature. Unlock the full potential of your tech stack with Horizon's intitutive and Stay ahead of the curve with our Dynamic Trend Analysis feature. Unlock the full potential of your tech stack with Horizon's intitutive and
+            Stay ahead of the curve with out Dynamic Trend Analysis Feature. Unlock the full potential of your tech stack with Horizon&apos;s intitutive and Stay ahead of the curve with our Dynamic Trend Analysis feature. Unlock the full potential of your tech stack with Horizon&apos;s intitutive and
           </div>
         </div>
       </div>
@@ -53,7 +53,7 @@ const Body = () => {
             <span className='span text-orange-600'>Unleash</span> the power of AI with GenAI
           </div>
           <div className='body-content-4-left-desc w-[90%] text-lg mt-5'>
-            Stay ahead of the curve with out Dynamic Trend Analysis Feature. Unlock the full potential of your tech stack with Horizon's intitutive and Stay ahead of the curve with our Dynamic Trend Analysis feature. Unlock the full potential of your tech stack with Horizon's intitutive and
+            Stay ahead of the curve with out Dynamic Trend Analysis Feature. Unlock the full potential of your tech stack with Horizon&apos;s intitutive and Stay ahead of the curve with our Dynamic Trend Analysis feature. Unlock the full potential of your tech stack with Horizon&apos;s intitutive and
           </div>
         </div>
         <div className='body-content-4-right flex-1'>
@@ -70,7 +70,7 @@ const Body = () => {
             <span className='span text-orange-600'>Unleash</span> the power of AI with GenAI
           </div>
           <div className='body-content-5-left-desc w-[90%] text-lg mt-5'>
-            Stay ahead of the curve with out Dynamic Trend Analysis Feature. Unlock the full potential of your tech stack with Horizon's intitutive and Stay ahead of the curve with our Dynamic Trend Analysis feature. Unlock the full potential of your tech stack with Horizon's intitutive and
+            Stay ahead of the curve with out Dynamic Trend Analysis Feature. Unlock the full potential of your tech stack with Horizon&apos;s intitutive and Stay ahead of the curve with our Dynamic Trend Analysis feature. Unlock the full potential of your tech stack with Horizon&apos;s intitutive and
           </div>
         </div>
       </div>
